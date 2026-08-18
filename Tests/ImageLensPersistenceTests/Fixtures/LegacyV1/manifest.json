@@ -1,0 +1,67 @@
+{
+  "analysisSnapshots" : [],
+  "assets" : [
+    {
+      "contentHash" : "sha256:generated-bytes",
+      "createdAt" : 0,
+      "displayName" : "生成结果",
+      "id" : "00000000-0000-0000-0000-000000001001",
+      "isSavedToLibrary" : false,
+      "kind" : "generated",
+      "mimeType" : "image/webp",
+      "pixelSize" : {
+        "height" : 1024,
+        "width" : 1024
+      },
+      "relativePath" : "assets/derived/shared-result.webp",
+      "sourceGenerationID" : "00000000-0000-0000-0000-000000007001",
+      "state" : "ready"
+    },
+    {
+      "contentHash" : "sha256:generated-bytes",
+      "createdAt" : 0,
+      "displayName" : "提取的素材",
+      "id" : "00000000-0000-0000-0000-000000001002",
+      "isSavedToLibrary" : true,
+      "kind" : "source",
+      "mimeType" : "image/webp",
+      "pixelSize" : {
+        "height" : 1024,
+        "width" : 1024
+      },
+      "relativePath" : "assets/derived/shared-result.webp",
+      "state" : "imported"
+    }
+  ],
+  "canvasNodes" : [
+    {
+      "createdAt" : 0,
+      "entityID" : "00000000-0000-0000-0000-000000001002",
+      "frame" : {
+        "origin" : {
+          "x" : 120,
+          "y" : 80
+        },
+        "size" : {
+          "height" : 320,
+          "width" : 320
+        }
+      },
+      "id" : "00000000-0000-0000-0000-00000000A001",
+      "kind" : "image",
+      "zIndex" : 1
+    }
+  ],
+  "compiledPrompts" : [],
+  "createdAt" : 0,
+  "generationGroups" : [],
+  "generations" : [],
+  "generators" : [],
+  "id" : "00000000-0000-0000-0000-000000000001",
+  "jobs" : [],
+  "promptModules" : [],
+  "recipes" : [],
+  "schemaVersion" : 1,
+  "title" : "Legacy V1 Golden",
+  "updatedAt" : 0
+}
